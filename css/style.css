@@ -1,3 +1,11 @@
 body {
+  background-color: #343434;
+}
+
+header {
   background-color: #0E3801;
+}
+
+p {
+  background-color: #0e3801
 }
