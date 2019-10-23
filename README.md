@@ -35,13 +35,3 @@ If you received anything less than a 90 on the second assignment, you will first
 Issue a pull request back into the original repo, the one from which your forked was created, before the deadline. [Look at these videos](http://code-warrior.github.io/tutorials/git/github/) for help on how to do so.
 
 **Note**: This assignment may *only* be submitted via GitHub. 🚫 **_No other form of submission will be accepted_**.
-
-## Grading
-| Item                                                        | Points |
-|-------------------------------------------------------------|:------:|
-| **                                  | `20`   |
-| **                                  | `20`   |
-| **                                  | `20`   |
-| **                                  | `20`   |
-| **                                  | `20`   |
-| **                                  | `20`   |
