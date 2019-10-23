@@ -29,7 +29,7 @@ If you received anything less than a 90 on the second assignment, you will first
 * Folders and files must use lowercase, combined with kebab case. For example, `do-this` or `do-this.html`. Further, no spaces in folder or file names (`not this`); no camel case (`notThis`); and, no snake case (`not_this`).
 
 ## Due Date
-⏰ **Wednesday, 23 October 2019, at 11:30 AM. 🚫 _No late work will be accepted._**
+⏰ **Friday, 25 October 2019, at 11:30 AM. 🚫 _No late work will be accepted._**
 
 ## Submission
 Issue a pull request back into the original repo, the one from which your forked was created, before the deadline. [Look at these videos](http://code-warrior.github.io/tutorials/git/github/) for help on how to do so.
