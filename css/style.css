@@ -1,11 +1,26 @@
 body {
-  background-color: #343434;
+  background-color: #2f5218;
 }
 
 header {
-  background-color: #0E3801;
+  background-color: #47b300;
+  text-align: center;
+  margin: 50px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 32pt;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+  font-family: 'Open Sans Condensed', sans-serif;
 }
 
 p {
-  background-color: #0e3801
+  background-color: #47b300;
+  text-align: center;
+  font-size: 16pt;
 }
