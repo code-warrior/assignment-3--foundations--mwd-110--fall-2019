@@ -1,0 +1,33 @@
+header{
+  font-family: 'Jomolhari', serif;
+}
+body{
+  background-color: #03ff96;
+  color: #000000;
+  font-family: 'Cormorant Garamond', serif;
+}
+ .hero img{
+   width: 1505px;
+   height: 550px;
+ }
+.bright{
+  background:#ffd500;
+  color:#000000;
+}
+nav ul li{
+  width: 33%;
+  display: inline-block;
+}
+nav ul li a {
+   padding: 0.25px 0;
+   display: block;
+}
+
+a {
+   text-decoration: none;
+}
+
+a:hover {
+   background-color:#ffd500;
+   color: #000000;
+}
