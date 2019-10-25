@@ -11,8 +11,9 @@
 }
 
 h1 {
+
     text-align: center;
-    color: black;
+    color: #eded32;
     font-family: 'Comfortaa', cursive;
 }
 
@@ -61,13 +62,6 @@ a:hover {
 body {
    font-family: 'Comfortaa', cursive;
    height: 100%;
-}
-
-img {
-   display: flex;
-   height: 20%;
-   width: 20%;
-   align-content: center;
 }
 
 
