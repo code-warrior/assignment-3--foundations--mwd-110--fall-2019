@@ -6,25 +6,25 @@
     text-decoration: none;
     background-color: #366134;
     list-style: none;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 
 }
 
 h1 {
     text-align: center;
     color: black;
+    font-family: 'Comfortaa', cursive;
 }
 
 h2 {
    color: black;
-   font-family: 'Comfortaa', cursive;
 }
 
 
 
-nav {
+navbar {
    width: 100%;
-   position: absolute;
+   position: fixed;
 }
 
 nav ul {
@@ -41,21 +41,37 @@ nav a {
    color: #eded32;
 }
 
-.hero {
-   width: 100%;
+a {
+   color: #eded32;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #000000;
+}
+
+#hero {
+   width: 100vw;
+   height: 100vh;
    background-size: cover;
+   background-position: center;
 }
 
 
 body {
    font-family: 'Comfortaa', cursive;
+   height: 100%;
+}
 
-
+img {
+   display: flex;
+   height: 20%;
+   width: 20%;
+   align-content: center;
 }
 
 
 main {
 letter-spacing: normal;
 font-family: 'Comfortaa', cursive;
-
 }
