@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Comfortaa&display=swap');
+
+* {
+    font-family: 'Ubuntu', sans-serif;
+    text-decoration: none;
+    background-color: #366134;
+    list-style: none;
+    letter-spacing: 2px;
+
+}
+
+h1 {
+
+    text-align: center;
+    color: #eded32;
+    font-family: 'Comfortaa', cursive;
+}
+
+h2 {
+   color: black;
+}
+
+
+
+navbar {
+   width: 100%;
+   position: fixed;
+}
+
+nav ul {
+   display: flex;
+   flex-direction: row;
+}
+nav li {
+    height: 100%;
+    width: 10%;
+}
+
+nav a {
+   text-decoration: none;
+   color: #eded32;
+}
+
+a {
+   color: #eded32;
+   text-decoration: none;
+}
+
+a:hover {
+   color: #000000;
+}
+
+#hero {
+   width: 100vw;
+   height: 100vh;
+   background-size: cover;
+   background-position: center;
+}
+
+
+body {
+   font-family: 'Comfortaa', cursive;
+   height: 100%;
+}
+
+
+main {
+letter-spacing: normal;
+font-family: 'Comfortaa', cursive;
+}
