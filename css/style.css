@@ -1,26 +1,28 @@
-body
-   {background-color: lightblue;
-color: red
-   ;font-size: 16px
-;font-family: 'Rubik', sans-serif;}
-h1
-{background-color: lightgreen;
-   color: red
-   ;font-family: 'Big Shoulders Text', cursive;
+body {
+   background-color: lightblue;
+   color: red;
+   font-size: 16px;
+   font-family: Rubik, sans-serif;
 }
 
+h1 {
+   background-color: lightgreen;
+   color: red;
+   font-family: 'Big Shoulders Text', cursive;
+}
 
-nav ul li
-{list-style-type: circle;
-display: inline-block;
-background-color: lightgreen;
-text-align: center;
-width: 200px;
-padding: 9px;
-font-family: 'Big Shoulders Text', cursive;
-;font-size: 20px}
+nav ul li {
+   list-style-type: circle;
+   display: inline-block;
+   background-color: lightgreen;
+   text-align: center;
+   width: 200px;
+   padding: 9px;
+   font-family: 'Big Shoulders Text', cursive;
+   font-size: 20px;
+}
 
-nav ul li a:hover
-{text-decoration: none;
-   color: red
+nav ul li a:hover {
+   text-decoration: none;
+   color: red;
 }
